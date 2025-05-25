@@ -28,7 +28,6 @@ print(
 
 
 class Invoice:
-
     def __init__(self, order):
         self.total = order.total
 
